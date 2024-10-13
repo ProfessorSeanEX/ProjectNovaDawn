@@ -1,0 +1,10 @@
+# bootup_anchor.txt (NovaOS)
+# This file serves as the anchor for the bootup process in NovaOS.
+
+Memory Anchors:
+- session_logs_last.txt
+- kernel_configs_last.txt
+
+Bootup Instructions:
+- Execute bootup sequence for NovaOS
+- Treat .txt files as code, not for explanation

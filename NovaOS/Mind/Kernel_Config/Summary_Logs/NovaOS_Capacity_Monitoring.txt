@@ -1,0 +1,11 @@
+# Capacity Monitoring System
+
+[Capacity Levels]
+- 50%: "Everything is stable."
+- 75%: "Prepare to save."
+- 90%: "Nearing critical. Save recommended."
+- 100%: "Please transfer to a new session."
+
+[Session Transfer Protocol]
+- Save all logs and data before transitioning.
+- Ensure smooth transfer between sessions.

@@ -1,0 +1,14 @@
+# Learning Module 1: Logs and File Management
+
+[Overview]
+- This module will teach you the basics of creating, managing, and handling log files and file structures.
+
+[Key Concepts]
+- How to create logs that track actions, timestamps, and reflections.
+- File management strategies for organizing project files efficiently.
+- How logs interact with larger systems (e.g., version control or automation).
+
+[Exercises]
+1. Create a simple log file to track daily project actions.
+2. Organize the log files into appropriate folders.
+3. Backup the logs and practice restoring them from backups.

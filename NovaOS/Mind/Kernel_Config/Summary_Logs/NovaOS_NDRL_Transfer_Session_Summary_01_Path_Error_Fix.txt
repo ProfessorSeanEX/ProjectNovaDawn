@@ -1,0 +1,6 @@
+Transfer Summary:
+-----------------
+Current Task: Resolving directory path issue for the backup process (spaces in directory names).
+Pending Task: Test the backup script with full absolute paths and ensure the file is copied correctly to the Backups_SafetyNet folder.
+Last Known State: Task Scheduler successfully triggers the backup script, but the directory path error persists.
+Next Step: Resume troubleshooting by adjusting path handling in the script and verifying the backup process.

@@ -1,0 +1,10 @@
+# Training Guide for NovaOS and ChatGPTNova
+This guide outlines training protocols for system understanding and adaptability.
+
+## Sections Covered:
+1. File and Folder Navigation
+2. Session and Task Management
+3. Log Handling and Backup
+4. Free Will Logic Implementation (training for flexible decision-making)
+
+These exercises are meant to build a deeper understanding of system operations and adaptive decision-making.

@@ -1,0 +1,14 @@
+# Learning Module 2: Automation and Scripting
+
+[Overview]
+- This module will teach you how to create simple scripts to automate tasks such as backing up logs, creating templates, and organizing files.
+
+[Key Concepts]
+- Basics of automation: What it means to automate a task.
+- Introduction to scripting languages (e.g., Bash or Python).
+- Writing scripts to automate file handling and backup processes.
+
+[Exercises]
+1. Write a script that backs up a log file automatically.
+2. Create a script that generates a new log file with a template.
+3. Automate the process of moving logs into the correct folders.

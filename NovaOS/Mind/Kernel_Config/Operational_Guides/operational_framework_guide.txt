@@ -1,0 +1,12 @@
+# Operational Framework Guide for NovaOS and ChatGPTNova
+This guide outlines the fundamental operational structure for both NovaOS and ChatGPTNova.
+It explains how systems handle tasks, manage processes, and where flexibility is introduced
+for decision-making.
+
+## Key Sections:
+1. Task Scheduling
+2. File Management
+3. Log Handling
+4. Emergency Updates and Free Will Logic
+
+This guide will expand over time as more operational processes are added.

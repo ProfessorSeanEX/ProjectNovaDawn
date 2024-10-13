@@ -1,0 +1,31 @@
+Title:  
+[Setup Wizard Name]
+
+---
+
+Description:  
+[Brief description of the purpose of this setup wizard, outlining what it aims to achieve and how it connects to the larger project.]
+
+---
+
+Steps:  
+- Step 1: [Context and objective for the first action]  
+- Step 2: [Next foundational action]  
+- Step X: [Additional steps as needed based on context]  
+- Final Step: [Final review, reflection, and conclusion]  
+  *(Note: The number of steps should be flexible depending on the task at hand.)*
+
+---
+
+Reflection and Adjustment Points:  
+[Include areas where reflection or adjustment may be needed. These can be added as checkpoints throughout the steps.]
+
+---
+
+Closing Notes:  
+[Summarize the outcome, lessons learned, and any important reflections or follow-up steps.]
+
+---
+
+File Names and Resources:  
+[List out any relevant file names or resources needed or created during the setup process.]
