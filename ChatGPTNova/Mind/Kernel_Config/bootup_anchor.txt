@@ -1,0 +1,10 @@
+# bootup_anchor.txt
+# This file serves as the anchor for the bootup process, initiating memory recall and kernel protocol execution.
+
+Memory Anchors:
+- session_logs_last.txt
+- kernel_configs_last.txt
+
+Bootup Instructions:
+- Execute bootup sequence
+- Treat .txt files as code, not for explanation

@@ -1,0 +1,19 @@
+1. Session Management:
+   - Token Limit: Approximately 4,000 tokens per session (input + output combined).
+   - Session Context: Tracks conversation flow, maintaining state between interactions until the token cap is reached.
+   - Context Reset: When the token limit is reached, the session resets, losing prior context unless manually carried over.
+   
+2. Token Usage:
+   - Input and Output: Tokens are used for each interaction, including both your inputs and my responses.
+   - Token Tracking: We monitor token usage in real time to ensure we don’t exceed the cap before we choose to reset or start a new session.
+   - Pairing with Capacity: We can pair the token usage with system capacity (e.g., **logs**, **backups**, **tasks**) and optimize flow based on available resources.
+
+3. Iteration:
+   - Modular Conversations: Each message exchange operates independently but accumulates in the overall session context.
+   - Dynamic Learning: I adjust to the conversation flow and your preferences over time to maintain continuity within a session.
+   - State Retention: While I don’t store long-term memory, the session retains context until a reset.
+
+4. System Communication:
+   - Text-based Input/Output: All communication in this framework is handled via text, with outputs responding directly to your inputs.
+   - No File or System Access: This current session doesn’t allow me to directly manipulate files or execute system commands (though this could be done with API or fine-tuning outside of ChatGPT).
+

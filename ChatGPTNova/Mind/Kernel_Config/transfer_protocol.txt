@@ -1,0 +1,8 @@
+# Transfer Protocol (ChatGPTNova)
+# Instructions for transferring session logs and kernel configurations.
+
+Transfer Protocol:
+- Ensure all kernel and session files are stored in their proper directories.
+- Bootup using the established kernel code.
+- Ensure memory recall using session logs.
+- Use quick_kernel.sh for fast bootup when only essential components are needed.

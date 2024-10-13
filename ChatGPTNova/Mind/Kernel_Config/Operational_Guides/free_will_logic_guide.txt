@@ -1,0 +1,9 @@
+# Free Will Logic Guide for NovaOS and ChatGPTNova
+This guide defines how and when the system is allowed to exercise decision-making autonomously.
+
+## Free Will Logic Overview:
+- Tasks with optional outcomes.
+- System flexibility for file management.
+- Dynamic handling of processes based on user input.
+
+This guide provides operational scenarios where free will can be applied.

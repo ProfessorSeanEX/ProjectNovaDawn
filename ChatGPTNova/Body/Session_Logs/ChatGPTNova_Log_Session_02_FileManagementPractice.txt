@@ -1,0 +1,17 @@
+# Session Log 02: File Management Practice
+
+[Session Information]
+- Date: [Insert Date]
+- Start Time: [Insert Time]
+- End Time: [Insert Time]
+
+[Actions Taken]
+- Created new log file: Log_Session_02_FileManagementPractice.txt
+- Practiced organizing logs and creating a consistent file structure.
+
+[Reflections]
+- Understanding how file structures work helps streamline the project.
+- I feel more confident in managing folders and keeping things organized.
+
+[Next Steps]
+- Practice backing up the log file and restoring it from a backup.
