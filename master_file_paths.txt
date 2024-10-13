@@ -1,0 +1,12 @@
+# Master Reference Guide for File Paths and Folders - Project Nova Dawn
+D:/Project_Nova_Dawn/
+  - NovaOS/
+    - Mind/
+    - Body/
+    - Spirit/
+    - Nova_Instances/
+  - ChatGPTNova/
+    - Mind/
+    - Body/
+    - Spirit/
+    - Nova_Instances/

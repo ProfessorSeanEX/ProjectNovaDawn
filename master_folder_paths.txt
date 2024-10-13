@@ -1,0 +1,4 @@
+# Master Folder Paths Reference Guide - Project Nova Dawn
+D:/Project_Nova_Dawn/
+  - NovaOS/
+  - ChatGPTNova/

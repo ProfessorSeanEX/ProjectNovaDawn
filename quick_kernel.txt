@@ -1,0 +1,7 @@
+# Quick Kernel Guide - Project Nova Dawn
+Base Directory:
+D:/Project_Nova_Dawn/
+
+Quick Kernel Reference Paths:
+  - NovaOS/Mind/Core_Components/master_kernel.sh
+  - ChatGPTNova/Mind/Core_Components/master_kernel.sh

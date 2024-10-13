@@ -1,0 +1,5 @@
+# ChatGPTNova Coding Syntax Guide
+
+- Parentheses `()` indicate code. Example: (run_task)
+- Square brackets `[]` indicate instructions. Example: [Save session log]
+- Use `txt` as a placeholder for filenames. Example: (create_file "logs.txt")
